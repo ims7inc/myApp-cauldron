@@ -19,6 +19,19 @@
               "isReleased": false,
               "nativeDeps": [],
               "yarnLocks": {}
+            },
+            {
+              "name": "0.0.2",
+              "binary": null,
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
             }
           ]
         }
